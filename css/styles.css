@@ -1,0 +1,33 @@
+body{
+    font-family: merriweather;
+    text-align: center;
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: sacramento;
+    
+}
+p{
+    color: rgb(0, 0, 0); 
+}
+.top{
+background-color: #E8FFFF;
+padding: 10%;
+}
+
+
+.gamer{
+    height: 300px;
+    width: 800px;
+}
+.topcloud{
+    
+    margin-left: 40%;  
+ 
+}
+.bottomcloud{
+    position: absolute;
+    
+}
